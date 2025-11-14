@@ -12,7 +12,7 @@ In this repository, you will find the notebooks for the tutorials and exercises 
 
 - [tutorials_supplementary_code_samples](./tutorials_supplementary_code_samples): Contains supplementary code samples provided as part of the tutorials.
 
-## Exercises (will be updated as the course progresses). Currently, this is the draft plan from the last year (SUBJECT TO CHAGNE)
+## Exercises --- Draft plan from the last year (SUBJECT TO CHAGNE)
 
 ### Exercise 01: 
 
@@ -24,13 +24,13 @@ See the exercise sheet for more details:
 Building word embeddings with PyTorch. In this exercise, you will implement a Continuous Bag of Words Model using the `torch` library. See the exercise sheet for more details:
 
 ### Exercise 03:
-Also known as Exercise AB. Handled through Simon Clematide. Please see OLAT Course for details
+Also known as Exercise AB. Handled through Simon Clematide. Please see OLAT Course for details.
 
 ### Exercise 04:
-Named Entity Recognition using Transformer Encoders. In this exercise, you will fine-tune a BERT model using the HuggingFace library
+Named Entity Recognition using Transformer Encoders. In this exercise, you will fine-tune a BERT model using the HuggingFace library. Additionally, you will experiment with GliNER to perform anonymization of texts.
 
 ### Exercise 05: 
-LLM Prompting and Prompt Engineering 
+LLM Prompting, Prompt Engineering and small LLM fine-tuning using Unsloth AI
 
 ### Exercise 06: 
 Topic Modeling using LDA and CTM 
