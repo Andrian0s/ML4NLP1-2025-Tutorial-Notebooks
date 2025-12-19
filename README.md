@@ -12,7 +12,7 @@ In this repository, you will find the notebooks for the tutorials and exercises 
 
 - [tutorials_supplementary_code_samples](./tutorials_supplementary_code_samples): Contains supplementary code samples provided as part of the tutorials.
 
-## Exercises --- Draft plan from the last year (SUBJECT TO CHAGNE)
+## Exercises --- From 2025
 
 ### Exercise 01: 
 
